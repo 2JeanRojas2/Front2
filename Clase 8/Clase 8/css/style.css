@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    padding: 20px 0;
+}
+.fila{
+    margin: 15px 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+.botones{
+    padding: 3px 15px;
+    border-radius: 50vh;
+    width: 100px;
+}
+#suma{
+    background-color: green;
+    color: white;
+}
+#resta{
+    background-color: red;
+    color: white;
+}
+.contenedor{
+    display: block;
+    padding: 50px;
+}

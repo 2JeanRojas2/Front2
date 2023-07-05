@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    font-size: 70px;
+    color: rgb(242, 5, 36);
+}
+
+body {
+    
+    background-image: url(../img/Captura.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
